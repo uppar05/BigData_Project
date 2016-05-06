@@ -1,0 +1,30 @@
+Instructions
+
+Project Mechanics
+----------------------
+
+In this project, you will get hands-on experience analyzing "big" data sets. You can select between two project areas: 1) exploring NYC taxi trips; and 2) exploring interactions between urban components (see descriptions attached)
+
+You should form a group with *at most 3 people*. You have to use either Hadoop or Spark to carry out your analyses -- you can write mapreduce programs, use Pig, and any other tool that works on Hadoop or Spark. Your code and scripts should be made available on GitHub and they should be reproducible -- you should include enough information so that others can reproduce what you did. You will also maintain a GoogleDoc that you will share with the instructors that describes your project, the questions you are investigating, and what you have done so far. Make sure the document is readable and writable by anyone who has the link -- this will allow us to provide feedback to you.
+
+Please use this form to register your group and provide the information about your GitHub repo and Google Doc:
+https://docs.google.com/forms/d/1-3ktygYo3ugaUqhT8mBzm3rISpmGekk9thRdttFrEas/viewform?usp=send_form#start=openform
+
+Here are you milestones:
+
+April 10: Submit the form with the information for your group. In the Google Doc, indicate your choice for the project, the data sets you will use, the tasks you will carry out, and a proposed timeline with weekly milestones.
+April 17: Add a new section in your Google Doc entitled "Status Report" describing any issues you encountered and updates to your initial plan.
+May 1: Add a new section in your Google Doc entitled "Status Report and Preliminary Results", describing your preliminary results and any updates. 
+May 13th: Final project report due. Add a new section in your Google Doc entitled "Project Report"
+May 16th: Project presentation: each group will present a poster with their results. The instructors will select the best 3 presentations; students in the selected groups will get extra credit: one letter upgrade (e.g., if the final grade is a B, the student will get a B+)
+
+Project Report
+-----------------
+
+You can use your Google Doc as the starting point for your report.
+
+- You should describe your experience, issues you encountered (e.g., dirty data) and how you dealt with them.
+- You should report on and explain the findings of your analysis -- the use of insightful visualizations is highly encouraged.
+- All results in your report should be reproducible -- the code/scripts you used should be made available together with instructions on how to run them to derive the results you obtained.
+- You should describe the experimental setup (cluster configuration, number of mappers/reducers, tools you used) as well as report on the performance of your approach (e.g., report the running times of the scripts) and any optimizations you applied to speed up your code.
+- You should describe the individual contributions of each of the project's members.
