@@ -14,7 +14,10 @@ for line in sys.stdin:
         date, hour = time.split(" ")
         year, month, day = date.split("-")
         key = "%s%s%s" %(year, month, day)
-        print "%s\t1" %(key)
+	#to reduce those invalid trip records
+	if int(row[3]) >= 0 and float(row[4]) >= 0 and float(row[-4]) >= 0 and float(row[-1]) >= 0:
+	    value = "%s,%s,%s,%s" %(row[3], row[4], row[-4], row[-1])
+            print "%s\t%s" %(key, value)
 	
 	
 	
