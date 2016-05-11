@@ -9,15 +9,15 @@ for line in sys.stdin:
 
     if row[0] == "USAF":
         continue
-    if len(row) != 33:
-        print row
 
-print "done"
+    time = row[2]
+    weather = row[12:20]
+    clean_weather = True
+    for w in weather:
+        if w != '**':
+            clean_weather = False
+            break
+    date = time[4:8]
+    print date, "\t", clean_weather
 
-"""
-    if len(row) == 33:
-        time = row[2]
-        print "%s\t1" %(key)
-	
-"""
-	
+
