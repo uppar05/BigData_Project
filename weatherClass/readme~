@@ -1,0 +1,8 @@
+The code that denotes a specific type of weather observed. (more general)
+
+Cloud :  0-19
+Dust  : 30-39
+Fog   : 40-49 & 28
+Rain  : 50-69 & 20,21,24
+Snow  : 70-79 & 22,23
+Shower: 80-99 & 25,26,27,29
