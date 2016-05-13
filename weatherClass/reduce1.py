@@ -31,6 +31,7 @@ for line in sys.stdin:
 	#print weather_list
     #when key != lastKey
     else:
+	
 	if len(weather_list) > 2 and ("**" in weather_list):
 	    weather_list.remove("**")
 	    #print weather_list
@@ -39,11 +40,12 @@ for line in sys.stdin:
 		try:
 		    w = int(str(w))
 		except ValueError:
+		    #count is not a number, just ignore
 		    continue
 		s = classifyW(w)
 		unique_list.add(s)
-	    ws = "/".join(str(x) for x in unique_list)
-	    print "%s\t%s" %(lastKey, ws)
+	    while len(unique_list) > 0:
+		print "%s\t%s" %(lastKey, unique_list.pop())
 	#only ** exists in the set
 	elif lastKey != None:
 	    print "%s\tCloud" %(lastKey)
@@ -64,8 +66,8 @@ if len(weather_list) > 2 and ("**" in weather_list):
 	    continue
 	s = classifyW(w)
 	unique_list.add(s)
-    ws = "/".join(str(x) for x in unique_list)
-    print "%s\t%s" %(key, ws)
+    while len(unique_list) > 0:
+	print "%s\t%s" %(key, unique_list.pop())
 #only ** exists in the set
 else:
     print "%s\tCloud" %(key)

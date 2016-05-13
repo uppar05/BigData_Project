@@ -45,7 +45,7 @@ for line in sys.stdin:
 	    ws = "/".join(str(x) for x in unique_list)
 	    print "%s\t%s" %(lastKey, ws)
 	#only ** exists in the set
-	elif lastKey != None:
+	else:
 	    print "%s\tCloud" %(lastKey)
 	lastKey = key
 	weather_list = Set()
