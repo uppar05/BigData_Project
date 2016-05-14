@@ -1,0 +1,753 @@
+Snow
+Ardon Heights New York City-Staten Island , 22.46
+Annandale New York City-Staten Island , 83.3
+Charlestown-Richmond Valley New York City-Staten Island , 133.8
+Tottensville New York City-Staten Island , 135.06
+Rossville New York City-Staten Island , 151.8
+Rosedale New York City-Queens , 167.03
+College Point New York City-Queens , 177.53
+Great Kills New York City-Staten Island , 203.96
+City Island New York City-Bronx , 203.98
+Todt Hill New York City-Staten Island , 207.5
+Ettingville New York City-Staten Island , 208.15
+Port Richmond New York City-Staten Island , 213.16
+Prince's Bay New York City-Staten Island , 234.0
+Midland Beach New York City-Staten Island , 278.22
+Howland Hook New York City-Staten Island , 280.69
+Westerleigh-Castleton New York City-Staten Island , 288.43
+Oakwood New York City-Staten Island , 356.28
+Bloomfield-Chelsea-Travis New York City-Staten Island , 446.32
+Richmondtown New York City-Staten Island , 628.51
+Mariners Harbor New York City-Staten Island , 731.79
+Baychester New York City-Bronx , 741.75
+Clifton New York City-Staten Island , 1010.93
+Coney Island New York City-Brooklyn , 1221.04
+Saintalbans New York City-Queens , 1386.27
+New Brighton New York City-Staten Island , 1415.98
+South Beach New York City-Staten Island , 1440.73
+Spuyten Duyvil New York City-Bronx , 1524.11
+Woodlawn-Nordwood New York City-Bronx , 1913.65
+Williams Bridge New York City-Bronx , 1974.1
+Clearview New York City-Queens , 2292.72
+Queens Village New York City-Queens , 2431.01
+Eastchester New York City-Bronx , 2486.44
+Country Club New York City-Bronx , 2762.39
+Auburndale New York City-Queens , 2983.09
+Red Hook New York City-Brooklyn , 3116.02
+Hunts Point New York City-Bronx , 3256.96
+Wakefield-Williamsbridge New York City-Bronx , 3444.78
+Throggs Neck New York City-Bronx , 3563.76
+Morris Park New York City-Bronx , 4192.99
+Queensboro Hill New York City-Queens , 4284.08
+Riverdale New York City-Bronx , 4512.85
+Laurelton New York City-Queens , 4532.48
+Dyker Heights New York City-Brooklyn , 4551.33
+The Rockaways New York City-Queens , 4605.33
+Flatbush New York City-Brooklyn , 4694.01
+Union Port New York City-Bronx , 4729.29
+Glendale New York City-Queens , 4898.47
+Fordham New York City-Bronx , 5392.14
+University Heights New York City-Bronx , 6183.07
+Tremont New York City-Bronx , 6630.54
+Soundview New York City-Bronx , 6793.56
+Bedford Park New York City-Bronx , 6877.59
+Bensonhurst New York City-Brooklyn , 7107.74
+Kings Bridge New York City-Bronx , 7694.9
+Morris Heights New York City-Bronx , 7807.83
+Douglastown-Little Neck New York City-Queens , 8502.13
+Parkchester New York City-Bronx , 8847.23
+Canarsie New York City-Brooklyn , 11184.39
+Steinway New York City-Queens , 13026.73
+East Brooklyn New York City-Brooklyn , 13686.06
+Ridgewood New York City-Queens , 14239.0
+Gravesend-Sheepshead Bay New York City-Brooklyn , 15006.57
+Middle Village New York City-Queens , 17147.65
+Woodhaven-Richmond Hill New York City-Queens , 17560.63
+Bay Ridge New York City-Brooklyn , 18245.6
+Sunset Park New York City-Brooklyn , 18379.7
+Brownsville New York City-Brooklyn , 20213.57
+Corona New York City-Queens , 21589.21
+Inwood New York City-Manhattan , 25103.75
+South Bronx New York City-Bronx , 27766.84
+High Bridge New York City-Bronx , 28593.43
+Mapleton-Flatlands New York City-Brooklyn , 34740.72
+Greenwood New York City-Brooklyn , 37516.22
+Borough Park New York City-Brooklyn , 39941.49
+Nkew Gardens New York City-Queens , 47153.47
+Utopia New York City-Queens , 47505.29
+Maspeth New York City-Queens , 48529.3
+Springfield Gardens New York City-Queens , 50550.34
+Flushing New York City-Queens , 63517.64
+Mott Haven New York City-Bronx , 86645.29
+Bushwick New York City-Brooklyn , 102924.29
+Forest Hills New York City-Queens , 127197.01
+Jamaica New York City-Queens , 183758.0
+Bedford-Stuyvesant New York City-Brooklyn , 213349.64
+Woodside New York City-Queens , 222140.88
+Cobble Hill New York City-Brooklyn , 254163.34
+Boerum Hill New York City-Brooklyn , 283748.46
+Park Slope New York City-Brooklyn , 305061.62
+Washington Heights New York City-Manhattan , 357838.77
+Carroll Gardens New York City-Brooklyn , 394718.15
+Hamilton Heights New York City-Manhattan , 467477.46
+East Harlem New York City-Manhattan , 635087.14
+Fort Green New York City-Brooklyn , 644140.39
+Downtown New York City-Brooklyn , 653273.09
+Chinatown New York City-Manhattan , 766263.44
+Sunny Side New York City-Queens , 1011939.26
+Harlem New York City-Manhattan , 1059398.24
+Morningside Heights New York City-Manhattan , 1195612.87
+Yorkville New York City-Manhattan , 1327766.47
+Williamsburg New York City-Brooklyn , 1372205.07
+Astoria-Long Island City New York City-Queens , 1467859.09
+Little Italy New York City-Manhattan , 1840969.55
+North Sutton Area New York City-Manhattan , 1932662.32
+Carnegie Hill New York City-Manhattan , 2107588.63
+Battery Park New York City-Manhattan , 2306088.64
+Central Park New York City-Manhattan , 2420130.18
+Tribeca New York City-Manhattan , 3708257.73
+Soho New York City-Manhattan , 4362721.39
+West Village New York City-Manhattan , 4929615.99
+Jackson Heights New York City-Queens , 5191308.09
+Lower East Side New York City-Manhattan , 5413518.01
+Financial District New York City-Manhattan , 5614703.13
+Clinton New York City-Manhattan , 6416652.47
+Murray Hill New York City-Manhattan , 6754129.8
+East Village New York City-Manhattan , 7676363.97
+Greenwich Village New York City-Manhattan , 9298421.04
+Garment District New York City-Manhattan , 11424485.07
+Chelsea New York City-Manhattan , 13430664.72
+Gramercy New York City-Manhattan , 15502298.76
+Upper West Side New York City-Manhattan , 15612982.95
+Upper East Side New York City-Manhattan , 24938869.49
+Corona New York City-Queens , 27832485.46
+Midtown New York City-Manhattan , 34127475.14
+----------------------------
+Rain
+Huguenot New York City-Staten Island , 31.9
+Whitestone New York City-Queens , 44.56
+Prince's Bay New York City-Staten Island , 142.15
+Port Richmond New York City-Staten Island , 199.3
+Tottensville New York City-Staten Island , 205.85
+Howland Hook New York City-Staten Island , 213.83
+Rosebank New York City-Staten Island , 259.81
+Fresh Kills New York City-Staten Island , 275.04
+Woodrow New York City-Staten Island , 327.57
+Charlestown-Richmond Valley New York City-Staten Island , 330.39
+Great Kills New York City-Staten Island , 366.65
+Ettingville New York City-Staten Island , 420.46
+Rossville New York City-Staten Island , 469.25
+Annandale New York City-Staten Island , 502.21
+College Point New York City-Queens , 505.27
+Midland Beach New York City-Staten Island , 740.62
+Ardon Heights New York City-Staten Island , 920.3
+Oakwood New York City-Staten Island , 1086.41
+City Island New York City-Bronx , 1301.69
+Richmondtown New York City-Staten Island , 1532.26
+Bloomfield-Chelsea-Travis New York City-Staten Island , 1911.5
+Todt Hill New York City-Staten Island , 1964.27
+Baychester New York City-Bronx , 2116.74
+Westerleigh-Castleton New York City-Staten Island , 2340.24
+New Brighton New York City-Staten Island , 2507.42
+Mariners Harbor New York City-Staten Island , 2970.27
+Rosedale New York City-Queens , 3014.04
+Clifton New York City-Staten Island , 3070.09
+South Beach New York City-Staten Island , 3310.16
+Woodlawn-Nordwood New York City-Bronx , 5662.91
+Clearview New York City-Queens , 5943.83
+Williams Bridge New York City-Bronx , 6135.76
+Spuyten Duyvil New York City-Bronx , 6231.04
+Coney Island New York City-Brooklyn , 6780.85
+Country Club New York City-Bronx , 7612.52
+Hunts Point New York City-Bronx , 8360.38
+Eastchester New York City-Bronx , 8526.66
+Auburndale New York City-Queens , 8819.29
+Red Hook New York City-Brooklyn , 9436.74
+Throggs Neck New York City-Bronx , 10842.0
+Queensboro Hill New York City-Queens , 11131.23
+Saintalbans New York City-Queens , 11193.58
+Wakefield-Williamsbridge New York City-Bronx , 11260.14
+Queens Village New York City-Queens , 12147.59
+Dyker Heights New York City-Brooklyn , 12471.61
+Union Port New York City-Bronx , 12477.3
+Riverdale New York City-Bronx , 13426.87
+Morris Park New York City-Bronx , 13855.62
+Glendale New York City-Queens , 15064.26
+Fordham New York City-Bronx , 15067.27
+University Heights New York City-Bronx , 15763.73
+Flatbush New York City-Brooklyn , 16852.78
+Soundview New York City-Bronx , 16891.83
+Kings Bridge New York City-Bronx , 17778.44
+Bedford Park New York City-Bronx , 18260.62
+Tremont New York City-Bronx , 19256.9
+Laurelton New York City-Queens , 20642.22
+Bensonhurst New York City-Brooklyn , 22398.97
+The Rockaways New York City-Queens , 22601.43
+Morris Heights New York City-Bronx , 23701.59
+Parkchester New York City-Bronx , 26961.63
+Steinway New York City-Queens , 32204.51
+Douglastown-Little Neck New York City-Queens , 33420.39
+Ridgewood New York City-Queens , 40959.78
+Canarsie New York City-Brooklyn , 43393.19
+East Brooklyn New York City-Brooklyn , 46751.59
+Middle Village New York City-Queens , 49106.75
+Bay Ridge New York City-Brooklyn , 55319.45
+Woodhaven-Richmond Hill New York City-Queens , 56134.39
+Gravesend-Sheepshead Bay New York City-Brooklyn , 56824.02
+Brownsville New York City-Brooklyn , 60730.3
+Sunset Park New York City-Brooklyn , 61090.23
+Corona New York City-Queens , 63786.18
+South Bronx New York City-Bronx , 75909.67
+Inwood New York City-Manhattan , 87006.11
+High Bridge New York City-Bronx , 96228.34
+Mapleton-Flatlands New York City-Brooklyn , 121906.09
+Borough Park New York City-Brooklyn , 122006.83
+Greenwood New York City-Brooklyn , 122501.48
+Nkew Gardens New York City-Queens , 150821.05
+Maspeth New York City-Queens , 163360.86
+Utopia New York City-Queens , 164151.85
+Springfield Gardens New York City-Queens , 202294.19
+Flushing New York City-Queens , 232033.4
+Mott Haven New York City-Bronx , 270674.89
+Bushwick New York City-Brooklyn , 284995.92
+Forest Hills New York City-Queens , 385498.08
+Bedford-Stuyvesant New York City-Brooklyn , 558920.83
+Woodside New York City-Queens , 682157.1
+Jamaica New York City-Queens , 766892.38
+Cobble Hill New York City-Brooklyn , 789064.52
+Park Slope New York City-Brooklyn , 815179.84
+Boerum Hill New York City-Brooklyn , 824155.94
+Washington Heights New York City-Manhattan , 1088143.39
+Carroll Gardens New York City-Brooklyn , 1180230.68
+Hamilton Heights New York City-Manhattan , 1439402.92
+Fort Green New York City-Brooklyn , 1687091.31
+East Harlem New York City-Manhattan , 1938842.85
+Downtown New York City-Brooklyn , 2094178.29
+Chinatown New York City-Manhattan , 2442350.27
+Sunny Side New York City-Queens , 2941033.93
+Harlem New York City-Manhattan , 3140202.05
+Morningside Heights New York City-Manhattan , 3571728.07
+Astoria-Long Island City New York City-Queens , 3765213.27
+Yorkville New York City-Manhattan , 4311884.95
+Williamsburg New York City-Brooklyn , 5531871.83
+Little Italy New York City-Manhattan , 5845686.61
+North Sutton Area New York City-Manhattan , 6818234.3
+Carnegie Hill New York City-Manhattan , 7242430.86
+Battery Park New York City-Manhattan , 8890351.11
+Central Park New York City-Manhattan , 8893876.41
+Tribeca New York City-Manhattan , 12546687.26
+Soho New York City-Manhattan , 14498071.75
+Lower East Side New York City-Manhattan , 16723762.38
+Financial District New York City-Manhattan , 20515355.69
+West Village New York City-Manhattan , 20731293.31
+Clinton New York City-Manhattan , 21706646.98
+Jackson Heights New York City-Queens , 22543289.54
+Murray Hill New York City-Manhattan , 23574571.05
+East Village New York City-Manhattan , 23659128.79
+Greenwich Village New York City-Manhattan , 29856007.09
+Garment District New York City-Manhattan , 39580100.26
+Chelsea New York City-Manhattan , 44682602.45
+Gramercy New York City-Manhattan , 51917371.7
+Upper West Side New York City-Manhattan , 52247435.56
+Upper East Side New York City-Manhattan , 84894836.03
+Corona New York City-Queens , 102352152.11
+Midtown New York City-Manhattan , 116876299.77
+----------------------------
+Shower
+Howland Hook New York City-Staten Island , 8.3
+Ardon Heights New York City-Staten Island , 15.0
+Prince's Bay New York City-Staten Island , 15.3
+College Point New York City-Queens , 51.72
+Rosebank New York City-Staten Island , 54.38
+Ettingville New York City-Staten Island , 58.6
+Richmondtown New York City-Staten Island , 75.02
+Bloomfield-Chelsea-Travis New York City-Staten Island , 81.94
+Port Richmond New York City-Staten Island , 106.6
+Tottensville New York City-Staten Island , 120.3
+Oakwood New York City-Staten Island , 125.9
+Midland Beach New York City-Staten Island , 167.84
+Clifton New York City-Staten Island , 168.26
+City Island New York City-Bronx , 169.25
+Charlestown-Richmond Valley New York City-Staten Island , 220.8
+Annandale New York City-Staten Island , 238.85
+Baychester New York City-Bronx , 324.3
+New Brighton New York City-Staten Island , 392.27
+Mariners Harbor New York City-Staten Island , 455.14
+South Beach New York City-Staten Island , 498.33
+Todt Hill New York City-Staten Island , 520.65
+Coney Island New York City-Brooklyn , 550.84
+Westerleigh-Castleton New York City-Staten Island , 560.46
+Saintalbans New York City-Queens , 944.05
+Spuyten Duyvil New York City-Bronx , 1105.27
+Williams Bridge New York City-Bronx , 1130.9
+Eastchester New York City-Bronx , 1170.74
+Clearview New York City-Queens , 1220.49
+Hunts Point New York City-Bronx , 1356.45
+Queens Village New York City-Queens , 1405.13
+Country Club New York City-Bronx , 1426.14
+Woodlawn-Nordwood New York City-Bronx , 1437.27
+Throggs Neck New York City-Bronx , 1443.63
+Wakefield-Williamsbridge New York City-Bronx , 1667.7
+Fordham New York City-Bronx , 1808.91
+Auburndale New York City-Queens , 1863.02
+Glendale New York City-Queens , 1873.17
+Red Hook New York City-Brooklyn , 2121.62
+Union Port New York City-Bronx , 2129.65
+Queensboro Hill New York City-Queens , 2171.2
+Rosedale New York City-Queens , 2174.5
+Dyker Heights New York City-Brooklyn , 2202.12
+Riverdale New York City-Bronx , 2222.07
+Morris Park New York City-Bronx , 2561.68
+Flatbush New York City-Brooklyn , 2645.83
+Bedford Park New York City-Bronx , 2712.69
+Soundview New York City-Bronx , 2745.24
+University Heights New York City-Bronx , 2820.53
+Kings Bridge New York City-Bronx , 2933.17
+Morris Heights New York City-Bronx , 3129.9
+Laurelton New York City-Queens , 3509.61
+Tremont New York City-Bronx , 3538.16
+Bensonhurst New York City-Brooklyn , 3665.41
+Douglastown-Little Neck New York City-Queens , 5440.55
+Parkchester New York City-Bronx , 5687.92
+The Rockaways New York City-Queens , 5835.0
+Steinway New York City-Queens , 6175.0
+East Brooklyn New York City-Brooklyn , 6766.41
+Canarsie New York City-Brooklyn , 6775.28
+Middle Village New York City-Queens , 7288.33
+Ridgewood New York City-Queens , 7533.21
+Bay Ridge New York City-Brooklyn , 8884.64
+Brownsville New York City-Brooklyn , 9732.99
+Woodhaven-Richmond Hill New York City-Queens , 9880.34
+Corona New York City-Queens , 10364.85
+Sunset Park New York City-Brooklyn , 11281.01
+South Bronx New York City-Bronx , 11897.11
+Gravesend-Sheepshead Bay New York City-Brooklyn , 12142.91
+High Bridge New York City-Bronx , 15993.66
+Inwood New York City-Manhattan , 16391.84
+Mapleton-Flatlands New York City-Brooklyn , 18644.08
+Greenwood New York City-Brooklyn , 21654.4
+Borough Park New York City-Brooklyn , 21693.41
+Maspeth New York City-Queens , 27468.81
+Nkew Gardens New York City-Queens , 28362.87
+Utopia New York City-Queens , 30818.38
+Springfield Gardens New York City-Queens , 36440.84
+Flushing New York City-Queens , 43032.66
+Mott Haven New York City-Bronx , 43036.2
+Bushwick New York City-Brooklyn , 47523.09
+Forest Hills New York City-Queens , 69525.61
+Bedford-Stuyvesant New York City-Brooklyn , 98643.03
+Woodside New York City-Queens , 116329.34
+Cobble Hill New York City-Brooklyn , 138776.71
+Park Slope New York City-Brooklyn , 141293.57
+Jamaica New York City-Queens , 142272.36
+Boerum Hill New York City-Brooklyn , 143370.15
+Washington Heights New York City-Manhattan , 187183.35
+Carroll Gardens New York City-Brooklyn , 205077.71
+Hamilton Heights New York City-Manhattan , 246424.5
+Fort Green New York City-Brooklyn , 306576.13
+East Harlem New York City-Manhattan , 330007.41
+Downtown New York City-Brooklyn , 366884.48
+Chinatown New York City-Manhattan , 422266.54
+Sunny Side New York City-Queens , 500803.33
+Harlem New York City-Manhattan , 542276.18
+Morningside Heights New York City-Manhattan , 592812.35
+Astoria-Long Island City New York City-Queens , 651519.5
+Williamsburg New York City-Brooklyn , 701385.99
+Yorkville New York City-Manhattan , 744600.44
+Little Italy New York City-Manhattan , 1035767.49
+North Sutton Area New York City-Manhattan , 1090406.98
+Carnegie Hill New York City-Manhattan , 1170423.29
+Central Park New York City-Manhattan , 1519719.48
+Battery Park New York City-Manhattan , 1553921.11
+Tribeca New York City-Manhattan , 2171522.51
+Soho New York City-Manhattan , 2489319.24
+Lower East Side New York City-Manhattan , 2866035.7
+West Village New York City-Manhattan , 2966785.76
+Financial District New York City-Manhattan , 3607539.62
+Clinton New York City-Manhattan , 3736466.03
+Jackson Heights New York City-Queens , 3851422.09
+East Village New York City-Manhattan , 4027172.18
+Murray Hill New York City-Manhattan , 4050564.64
+Greenwich Village New York City-Manhattan , 5050410.9
+Garment District New York City-Manhattan , 6711714.84
+Chelsea New York City-Manhattan , 7739674.54
+Upper West Side New York City-Manhattan , 8759219.01
+Gramercy New York City-Manhattan , 8908639.83
+Upper East Side New York City-Manhattan , 14086943.96
+Corona New York City-Queens , 17731372.37
+Midtown New York City-Manhattan , 19949901.14
+----------------------------
+Fog
+Ettingville New York City-Staten Island , 3.3
+Fresh Kills New York City-Staten Island , 9.36
+Charlestown-Richmond Valley New York City-Staten Island , 17.8
+Todt Hill New York City-Staten Island , 31.2
+Westerleigh-Castleton New York City-Staten Island , 43.98
+Rosedale New York City-Queens , 59.05
+Annandale New York City-Staten Island , 90.3
+College Point New York City-Queens , 116.96
+New Brighton New York City-Staten Island , 121.76
+City Island New York City-Bronx , 172.9
+Oakwood New York City-Staten Island , 179.66
+Rossville New York City-Staten Island , 190.03
+Bloomfield-Chelsea-Travis New York City-Staten Island , 226.0
+Richmondtown New York City-Staten Island , 240.15
+Coney Island New York City-Brooklyn , 268.33
+Baychester New York City-Bronx , 370.16
+Auburndale New York City-Queens , 426.11
+Clifton New York City-Staten Island , 537.78
+Spuyten Duyvil New York City-Bronx , 546.99
+Woodlawn-Nordwood New York City-Bronx , 549.32
+Country Club New York City-Bronx , 577.14
+Red Hook New York City-Brooklyn , 633.83
+Clearview New York City-Queens , 651.95
+Eastchester New York City-Bronx , 686.04
+South Beach New York City-Staten Island , 693.89
+Williams Bridge New York City-Bronx , 712.87
+Mariners Harbor New York City-Staten Island , 808.26
+Wakefield-Williamsbridge New York City-Bronx , 826.0
+Throggs Neck New York City-Bronx , 829.12
+Hunts Point New York City-Bronx , 871.0
+Riverdale New York City-Bronx , 963.37
+Morris Park New York City-Bronx , 1040.9
+Queensboro Hill New York City-Queens , 1252.03
+Saintalbans New York City-Queens , 1337.64
+The Rockaways New York City-Queens , 1355.16
+Queens Village New York City-Queens , 1403.17
+Union Port New York City-Bronx , 1485.31
+Laurelton New York City-Queens , 1611.88
+Fordham New York City-Bronx , 1650.23
+Dyker Heights New York City-Brooklyn , 1794.36
+Kings Bridge New York City-Bronx , 1903.45
+Flatbush New York City-Brooklyn , 1978.97
+University Heights New York City-Bronx , 2145.44
+Soundview New York City-Bronx , 2180.31
+Tremont New York City-Bronx , 2250.35
+Bedford Park New York City-Bronx , 2298.31
+Bensonhurst New York City-Brooklyn , 2471.28
+Morris Heights New York City-Bronx , 2639.07
+Steinway New York City-Queens , 2902.73
+Parkchester New York City-Bronx , 3075.07
+Glendale New York City-Queens , 3164.56
+Douglastown-Little Neck New York City-Queens , 3248.42
+East Brooklyn New York City-Brooklyn , 3829.4
+Ridgewood New York City-Queens , 4719.18
+Canarsie New York City-Brooklyn , 5061.51
+Corona New York City-Queens , 5326.25
+Woodhaven-Richmond Hill New York City-Queens , 5568.64
+Middle Village New York City-Queens , 5968.61
+Sunset Park New York City-Brooklyn , 6039.58
+Bay Ridge New York City-Brooklyn , 6137.33
+Gravesend-Sheepshead Bay New York City-Brooklyn , 6584.57
+Brownsville New York City-Brooklyn , 7266.33
+South Bronx New York City-Bronx , 7609.23
+Inwood New York City-Manhattan , 8106.78
+Borough Park New York City-Brooklyn , 10763.66
+High Bridge New York City-Bronx , 11827.84
+Greenwood New York City-Brooklyn , 12223.68
+Mapleton-Flatlands New York City-Brooklyn , 13084.15
+Nkew Gardens New York City-Queens , 13809.23
+Maspeth New York City-Queens , 16224.38
+Utopia New York City-Queens , 16531.5
+Springfield Gardens New York City-Queens , 17915.81
+Flushing New York City-Queens , 18670.34
+Mott Haven New York City-Bronx , 27804.3
+Bushwick New York City-Brooklyn , 30027.94
+Forest Hills New York City-Queens , 39753.02
+Bedford-Stuyvesant New York City-Brooklyn , 55381.06
+Woodside New York City-Queens , 66381.22
+Cobble Hill New York City-Brooklyn , 72010.78
+Park Slope New York City-Brooklyn , 74637.49
+Boerum Hill New York City-Brooklyn , 74784.12
+Jamaica New York City-Queens , 77299.44
+Carroll Gardens New York City-Brooklyn , 106314.15
+Washington Heights New York City-Manhattan , 112712.79
+Hamilton Heights New York City-Manhattan , 144191.91
+Fort Green New York City-Brooklyn , 158130.26
+Downtown New York City-Brooklyn , 197007.99
+East Harlem New York City-Manhattan , 198350.25
+Chinatown New York City-Manhattan , 230811.13
+Sunny Side New York City-Queens , 272839.2
+Harlem New York City-Manhattan , 314017.08
+Morningside Heights New York City-Manhattan , 359589.17
+Astoria-Long Island City New York City-Queens , 366317.9
+Williamsburg New York City-Brooklyn , 379157.21
+Yorkville New York City-Manhattan , 430320.36
+Little Italy New York City-Manhattan , 536047.25
+North Sutton Area New York City-Manhattan , 607663.02
+Carnegie Hill New York City-Manhattan , 710550.53
+Battery Park New York City-Manhattan , 814260.02
+Central Park New York City-Manhattan , 868173.1
+Tribeca New York City-Manhattan , 1110419.75
+Soho New York City-Manhattan , 1297027.81
+Lower East Side New York City-Manhattan , 1455444.73
+West Village New York City-Manhattan , 1563741.46
+Financial District New York City-Manhattan , 1839945.12
+Clinton New York City-Manhattan , 1892078.32
+Jackson Heights New York City-Queens , 2116509.14
+East Village New York City-Manhattan , 2150755.82
+Murray Hill New York City-Manhattan , 2151178.54
+Greenwich Village New York City-Manhattan , 2786243.49
+Garment District New York City-Manhattan , 3698467.41
+Chelsea New York City-Manhattan , 4065591.59
+Gramercy New York City-Manhattan , 4766099.05
+Upper West Side New York City-Manhattan , 5183623.88
+Upper East Side New York City-Manhattan , 8108817.08
+Corona New York City-Queens , 9474805.94
+Midtown New York City-Manhattan , 10831960.83
+----------------------------
+Dust
+Howland Hook New York City-Staten Island , 3.6
+Fresh Kills New York City-Staten Island , 9.36
+Huguenot New York City-Staten Island , 11.6
+Charlestown-Richmond Valley New York City-Staten Island , 17.8
+Great Kills New York City-Staten Island , 56.96
+Midland Beach New York City-Staten Island , 77.96
+Annandale New York City-Staten Island , 90.3
+Prince's Bay New York City-Staten Island , 142.56
+Rosedale New York City-Queens , 206.54
+Ettingville New York City-Staten Island , 223.91
+College Point New York City-Queens , 283.47
+Westerleigh-Castleton New York City-Staten Island , 288.3
+Rossville New York City-Staten Island , 341.83
+Bloomfield-Chelsea-Travis New York City-Staten Island , 344.26
+Oakwood New York City-Staten Island , 418.65
+Richmondtown New York City-Staten Island , 466.35
+City Island New York City-Bronx , 572.57
+New Brighton New York City-Staten Island , 645.3
+Todt Hill New York City-Staten Island , 812.4
+Coney Island New York City-Brooklyn , 931.5
+Baychester New York City-Bronx , 982.19
+Mariners Harbor New York City-Staten Island , 1186.58
+Clifton New York City-Staten Island , 1208.6
+South Beach New York City-Staten Island , 1377.39
+Woodlawn-Nordwood New York City-Bronx , 1664.97
+Auburndale New York City-Queens , 1734.81
+Spuyten Duyvil New York City-Bronx , 1965.93
+Clearview New York City-Queens , 2031.1
+Williams Bridge New York City-Bronx , 2093.22
+Country Club New York City-Bronx , 2260.0
+Hunts Point New York City-Bronx , 2415.25
+Red Hook New York City-Brooklyn , 2458.75
+Eastchester New York City-Bronx , 2555.37
+Wakefield-Williamsbridge New York City-Bronx , 2763.28
+Throggs Neck New York City-Bronx , 3186.64
+Saintalbans New York City-Queens , 3285.1
+Queens Village New York City-Queens , 3584.78
+The Rockaways New York City-Queens , 3675.13
+Riverdale New York City-Bronx , 3838.26
+Morris Park New York City-Bronx , 3865.56
+Union Port New York City-Bronx , 3944.42
+Queensboro Hill New York City-Queens , 3952.89
+Dyker Heights New York City-Brooklyn , 4400.14
+Fordham New York City-Bronx , 4836.21
+Flatbush New York City-Brooklyn , 4887.45
+Glendale New York City-Queens , 5393.6
+Laurelton New York City-Queens , 5667.56
+University Heights New York City-Bronx , 5702.55
+Kings Bridge New York City-Bronx , 5896.6
+Soundview New York City-Bronx , 6178.45
+Bedford Park New York City-Bronx , 6348.08
+Tremont New York City-Bronx , 6536.88
+Bensonhurst New York City-Brooklyn , 6929.89
+Morris Heights New York City-Bronx , 8289.54
+Douglastown-Little Neck New York City-Queens , 8397.03
+Parkchester New York City-Bronx , 8915.83
+Steinway New York City-Queens , 9138.71
+East Brooklyn New York City-Brooklyn , 12896.5
+Ridgewood New York City-Queens , 13339.25
+Corona New York City-Queens , 13594.55
+Canarsie New York City-Brooklyn , 13614.34
+Middle Village New York City-Queens , 14628.74
+Gravesend-Sheepshead Bay New York City-Brooklyn , 15268.31
+Bay Ridge New York City-Brooklyn , 17057.83
+Woodhaven-Richmond Hill New York City-Queens , 17983.51
+Sunset Park New York City-Brooklyn , 18994.88
+Brownsville New York City-Brooklyn , 20586.65
+South Bronx New York City-Bronx , 24261.21
+Inwood New York City-Manhattan , 24673.39
+High Bridge New York City-Bronx , 29133.32
+Borough Park New York City-Brooklyn , 32930.26
+Greenwood New York City-Brooklyn , 34036.12
+Mapleton-Flatlands New York City-Brooklyn , 36308.92
+Nkew Gardens New York City-Queens , 42718.81
+Maspeth New York City-Queens , 46384.19
+Utopia New York City-Queens , 47609.43
+Springfield Gardens New York City-Queens , 51459.2
+Flushing New York City-Queens , 59559.5
+Mott Haven New York City-Bronx , 80959.21
+Bushwick New York City-Brooklyn , 95626.94
+Forest Hills New York City-Queens , 116724.18
+Bedford-Stuyvesant New York City-Brooklyn , 178541.47
+Jamaica New York City-Queens , 200198.8
+Woodside New York City-Queens , 202783.4
+Cobble Hill New York City-Brooklyn , 213865.92
+Boerum Hill New York City-Brooklyn , 233870.38
+Park Slope New York City-Brooklyn , 238386.98
+Carroll Gardens New York City-Brooklyn , 318842.02
+Washington Heights New York City-Manhattan , 336194.49
+Hamilton Heights New York City-Manhattan , 437370.88
+Fort Green New York City-Brooklyn , 511243.67
+Downtown New York City-Brooklyn , 570916.39
+East Harlem New York City-Manhattan , 573445.8
+Chinatown New York City-Manhattan , 707809.82
+Sunny Side New York City-Queens , 869114.03
+Harlem New York City-Manhattan , 921824.37
+Morningside Heights New York City-Manhattan , 1056388.58
+Astoria-Long Island City New York City-Queens , 1141563.3
+Yorkville New York City-Manhattan , 1213867.82
+Little Italy New York City-Manhattan , 1676621.16
+North Sutton Area New York City-Manhattan , 1753403.85
+Carnegie Hill New York City-Manhattan , 1916183.42
+Battery Park New York City-Manhattan , 2272644.95
+Central Park New York City-Manhattan , 2411297.69
+Williamsburg New York City-Brooklyn , 2851726.51
+Tribeca New York City-Manhattan , 3285446.6
+Soho New York City-Manhattan , 3881397.19
+West Village New York City-Manhattan , 4657772.87
+Lower East Side New York City-Manhattan , 4772541.89
+Financial District New York City-Manhattan , 5239968.05
+Jackson Heights New York City-Queens , 5775364.66
+Clinton New York City-Manhattan , 6000831.42
+Murray Hill New York City-Manhattan , 6146492.72
+East Village New York City-Manhattan , 6856691.56
+Greenwich Village New York City-Manhattan , 8350093.56
+Garment District New York City-Manhattan , 10787929.44
+Chelsea New York City-Manhattan , 12092225.86
+Gramercy New York City-Manhattan , 13942975.38
+Upper West Side New York City-Manhattan , 14622585.92
+Upper East Side New York City-Manhattan , 22969790.3
+Corona New York City-Queens , 26844789.25
+Midtown New York City-Manhattan , 31444978.38
+----------------------------
+Cloud
+Whitestone New York City-Queens , 53.7
+Rosebank New York City-Staten Island , 193.38
+Howard Beach New York City-Queens , 198.79
+Tottensville New York City-Staten Island , 345.81
+Fresh Kills New York City-Staten Island , 360.3
+Charlestown-Richmond Valley New York City-Staten Island , 419.5
+Woodrow New York City-Staten Island , 441.22
+Great Kills New York City-Staten Island , 459.78
+Prince's Bay New York City-Staten Island , 545.26
+Annandale New York City-Staten Island , 588.81
+Rossville New York City-Staten Island , 712.23
+Huguenot New York City-Staten Island , 823.52
+Port Richmond New York City-Staten Island , 919.68
+Ettingville New York City-Staten Island , 1764.5
+College Point New York City-Queens , 1830.12
+Howland Hook New York City-Staten Island , 1965.29
+Oakwood New York City-Staten Island , 2252.55
+Ardon Heights New York City-Staten Island , 2477.76
+City Island New York City-Bronx , 2842.28
+Bloomfield-Chelsea-Travis New York City-Staten Island , 3668.77
+Midland Beach New York City-Staten Island , 3694.58
+Richmondtown New York City-Staten Island , 3942.13
+Rosedale New York City-Queens , 3964.32
+Todt Hill New York City-Staten Island , 4947.44
+Clifton New York City-Staten Island , 5085.13
+Baychester New York City-Bronx , 5259.31
+Westerleigh-Castleton New York City-Staten Island , 5844.82
+New Brighton New York City-Staten Island , 6989.4
+South Beach New York City-Staten Island , 10391.06
+Mariners Harbor New York City-Staten Island , 10574.43
+Clearview New York City-Queens , 14114.95
+Coney Island New York City-Brooklyn , 15275.25
+Williams Bridge New York City-Bronx , 16028.05
+Spuyten Duyvil New York City-Bronx , 16334.46
+Country Club New York City-Bronx , 18491.02
+Woodlawn-Nordwood New York City-Bronx , 19135.36
+Eastchester New York City-Bronx , 20616.36
+Hunts Point New York City-Bronx , 21664.3
+Red Hook New York City-Brooklyn , 21964.84
+Auburndale New York City-Queens , 22860.67
+Wakefield-Williamsbridge New York City-Bronx , 24904.78
+Saintalbans New York City-Queens , 27672.55
+Queensboro Hill New York City-Queens , 28184.78
+Throggs Neck New York City-Bronx , 30015.11
+Queens Village New York City-Queens , 30909.79
+Union Port New York City-Bronx , 32235.29
+Morris Park New York City-Bronx , 32623.37
+Riverdale New York City-Bronx , 33543.7
+Dyker Heights New York City-Brooklyn , 35441.28
+Glendale New York City-Queens , 35623.36
+Fordham New York City-Bronx , 37337.41
+University Heights New York City-Bronx , 43569.09
+Flatbush New York City-Brooklyn , 43775.09
+Bedford Park New York City-Bronx , 44315.81
+Soundview New York City-Bronx , 44508.64
+Kings Bridge New York City-Bronx , 49265.37
+Tremont New York City-Bronx , 50690.04
+Laurelton New York City-Queens , 51411.15
+Bensonhurst New York City-Brooklyn , 53975.19
+Morris Heights New York City-Bronx , 58728.27
+Parkchester New York City-Bronx , 65343.3
+The Rockaways New York City-Queens , 70345.3
+Steinway New York City-Queens , 81591.5
+Douglastown-Little Neck New York City-Queens , 82139.58
+Canarsie New York City-Brooklyn , 112464.13
+Ridgewood New York City-Queens , 112489.64
+East Brooklyn New York City-Brooklyn , 115837.75
+Middle Village New York City-Queens , 127341.23
+Woodhaven-Richmond Hill New York City-Queens , 134193.63
+Bay Ridge New York City-Brooklyn , 146654.78
+Gravesend-Sheepshead Bay New York City-Brooklyn , 150375.85
+Brownsville New York City-Brooklyn , 153026.53
+Corona New York City-Queens , 157886.3
+Sunset Park New York City-Brooklyn , 167040.11
+South Bronx New York City-Bronx , 180469.85
+Inwood New York City-Manhattan , 217533.31
+High Bridge New York City-Bronx , 233813.26
+Mapleton-Flatlands New York City-Brooklyn , 287264.69
+Greenwood New York City-Brooklyn , 296728.93
+Borough Park New York City-Brooklyn , 303194.38
+Nkew Gardens New York City-Queens , 379437.76
+Utopia New York City-Queens , 403406.3
+Maspeth New York City-Queens , 434117.01
+Springfield Gardens New York City-Queens , 488271.71
+Flushing New York City-Queens , 573854.01
+Mott Haven New York City-Bronx , 683594.6
+Bushwick New York City-Brooklyn , 778779.54
+Forest Hills New York City-Queens , 969484.04
+Bedford-Stuyvesant New York City-Brooklyn , 1472752.07
+Woodside New York City-Queens , 1666046.97
+Jamaica New York City-Queens , 1950019.61
+Cobble Hill New York City-Brooklyn , 1965419.96
+Boerum Hill New York City-Brooklyn , 2103819.8
+Park Slope New York City-Brooklyn , 2122563.91
+Washington Heights New York City-Manhattan , 2722019.72
+Carroll Gardens New York City-Brooklyn , 2968462.28
+Hamilton Heights New York City-Manhattan , 3597407.73
+Fort Green New York City-Brooklyn , 4440141.27
+East Harlem New York City-Manhattan , 4831556.91
+Downtown New York City-Brooklyn , 5340845.82
+Chinatown New York City-Manhattan , 6223601.72
+Sunny Side New York City-Queens , 7664540.38
+Harlem New York City-Manhattan , 7823572.69
+Morningside Heights New York City-Manhattan , 8838762.37
+Astoria-Long Island City New York City-Queens , 9448791.6
+Yorkville New York City-Manhattan , 10633531.12
+Williamsburg New York City-Brooklyn , 12022166.8
+Little Italy New York City-Manhattan , 15200605.29
+North Sutton Area New York City-Manhattan , 16140380.01
+Carnegie Hill New York City-Manhattan , 17369158.28
+Central Park New York City-Manhattan , 22051105.06
+Battery Park New York City-Manhattan , 22096325.38
+Tribeca New York City-Manhattan , 31425684.99
+Soho New York City-Manhattan , 36433325.22
+Lower East Side New York City-Manhattan , 43846266.66
+West Village New York City-Manhattan , 47366725.33
+Financial District New York City-Manhattan , 51821475.41
+Jackson Heights New York City-Queens , 54740621.81
+Clinton New York City-Manhattan , 54768618.58
+Murray Hill New York City-Manhattan , 59318288.48
+East Village New York City-Manhattan , 61445370.45
+Greenwich Village New York City-Manhattan , 76459837.65
+Garment District New York City-Manhattan , 98345475.34
+Chelsea New York City-Manhattan , 112743422.16
+Upper West Side New York City-Manhattan , 129960187.19
+Gramercy New York City-Manhattan , 130172790.24
+Upper East Side New York City-Manhattan , 208952167.66
+Corona New York City-Queens , 255319528.69
+Midtown New York City-Manhattan , 288674065.05
+----------------------------
